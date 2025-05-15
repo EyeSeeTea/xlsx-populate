@@ -3747,3 +3747,4 @@ https://docs.microsoft.com/en-us/dotnet/api/documentformat.openxml.spreadsheet.p
 | topLeftCell | <code>string</code> |  | Top Left Visible Cell. Location of the top left visible cell in the bottom right pane (when in Left-To-Right mode). |
 | xSplit | <code>number</code> |  | (Horizontal Split Position) Horizontal position of the split, in 1/20th of a point; 0 (zero) if none. If the pane is frozen, this value indicates the number of columns visible in the top pane. |
 | ySplit | <code>number</code> |  | (Vertical Split Position) Vertical position of the split, in 1/20th of a point; 0 (zero) if none. If the pane is frozen, this value indicates the number of rows visible in the left pane. |
+
