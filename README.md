@@ -1241,8 +1241,8 @@ Set or clear the comment on the cell.
 | [opts.text] | <code>string</code> | The comment text to set. |
 | [opts.width] | <code>string</code> | Comment box width. |
 | [opts.height] | <code>string</code> | Comment box height. |
-| [opts.horizontalAlignment] | <code>string</code> | Comment horizontalAlignment |
 | [opts.textAlign] | <code>string</code> | Comment text Align. |
+| [opts.horizontalAlignment] | <code>string</code> | Comment horizontalAlignment |
 
 <a name="Cell+dataValidation"></a>
 
@@ -3139,8 +3139,8 @@ Set the comment on the cell with the given address.
 | [opts.text] | <code>string</code> | The comment text to set. |
 | [opts.width] | <code>string</code> | Comment box width. |
 | [opts.height] | <code>string</code> | Comment box height. |
-| [opts.textAlign] | <code>string</code> | Comment textAlign. |
 | [opts.horizontalAlignment] | <code>string</code> | Comment horizontalAlignment. |
+| [opts.textAlign] | <code>string</code> | Comment textAlign. |
 
 <a name="Sheet+conditionalFormatting"></a>
 
