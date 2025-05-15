@@ -3139,8 +3139,8 @@ Set the comment on the cell with the given address.
 | [opts.text] | <code>string</code> | The comment text to set. |
 | [opts.width] | <code>string</code> | Comment box width. |
 | [opts.height] | <code>string</code> | Comment box height. |
-| [opts.horizontalAlignment] | <code>string</code> | Comment horizontalAlignment. |
 | [opts.textAlign] | <code>string</code> | Comment textAlign. |
+| [opts.horizontalAlignment] | <code>string</code> | Comment horizontalAlignment. |
 
 <a name="Sheet+conditionalFormatting"></a>
 
