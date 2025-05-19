@@ -280,6 +280,7 @@ declare namespace XlsxPopulate {
     forEach(callback: Function): Range;
     formula(): string | undefined;
     formula(formula: string): Range;
+    formula(options: { formula: string, shared: boolean }): Range;
     map(callback: Function): any[][];
     merged(): boolean;
     merged(merged: boolean): Range;
